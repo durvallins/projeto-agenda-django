@@ -16,4 +16,7 @@ git config --global init.defaultBranch main
 git init
 git add .
 git commit -m 'Mensagem'
-git remote add origin URL_DO_GIT
+# git remote add origin URL_DO_GIT 
+git remote add origin https://github.com/durvallins/projeto-agenda-django.git
+
+# o URL_DO_GIT é o próprio link do repositório criado anteriormente
