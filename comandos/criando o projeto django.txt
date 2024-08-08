@@ -1,0 +1,4 @@
+django-admin startproject project .
+
+iniciando o srv
+python manage.py runserver
