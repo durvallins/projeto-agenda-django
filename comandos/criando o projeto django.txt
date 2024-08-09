@@ -2,3 +2,12 @@ django-admin startproject project .
 
 iniciando o srv
 python manage.py runserver
+
+########
+a cada nova alteração no projeto,
+digitar no terminal:
+git add .
+
+se quiser ver oq foi add
+git status
+
